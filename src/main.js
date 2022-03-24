@@ -1,6 +1,6 @@
 # Copyright CodeownersInc
 
-const something = 2;
+const meaningOfLife = 42;
 
 function main() {
     console.log("Entering main");
