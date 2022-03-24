@@ -1,5 +1,7 @@
 # Copyright CodeownersInc
 
+const something = 2;
+
 function main() {
     console.log("Entering main");
     
