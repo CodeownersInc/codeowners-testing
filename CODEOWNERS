@@ -1,0 +1,8 @@
+# Code ownership
+
+CODEOWNERS @Sylvain
+
+/src/ @All
+
+/docs/ @Duo
+
