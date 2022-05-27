@@ -6,4 +6,5 @@ CODEOWNERS @CodeownersInc/Sylvain
 /docs/ @CodeownersInc/Duo
 
 **/NewFile.js @sylvain-galineau
+**/Special.md @sylvain-galineau
 
