@@ -5,5 +5,5 @@ CODEOWNERS @CodeownersInc/Sylvain
 /src/ @CodeownersInc/All
 /docs/ @CodeownersInc/Duo
 
-**/NewFile.js @CodeownersInc/Sylvain
+**/NewFile.js @sylvain-galineau
 
