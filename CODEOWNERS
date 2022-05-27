@@ -3,6 +3,7 @@
 CODEOWNERS @CodeownersInc/Sylvain
 
 /src/ @CodeownersInc/All
-
 /docs/ @CodeownersInc/Duo
+
+**/NewFile.js @CodeownersInc/Sylvain
 
