@@ -3,7 +3,7 @@
 CODEOWNERS @CodeownersInc/Sylvain
 
 /src/ @CodeownersInc/All
-/docs/ @CodeownersInc/Duo
+/docs/ @CodeownersInc/Duo @sylvain-galineau
 
 **/NewFile.js @sylvain-galineau
 **/Special.md @sylvain-galineau
