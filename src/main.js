@@ -1,4 +1,4 @@
-# Copyright CodeownersInc
+# Copyright CodeownersInc 2022
 
 const meaningOfLife = 42;
 
