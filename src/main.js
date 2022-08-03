@@ -8,3 +8,7 @@ function main() {
     console.log("Exiting main");
     return 0;
 }
+
+function log(message) {
+    console.log(message);
+}
