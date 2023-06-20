@@ -8,5 +8,6 @@ CODEOWNERS @CodeownersInc/Sylvain
 **/NewFile.js @sylvain-galineau
 **/Special.md @sylvain-galineau
 **/TypeDefinition.ts
+README.md @sylvain-galineau @susan-adams @john-adams-98122
 
 
